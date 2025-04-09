@@ -1,0 +1,5 @@
+<screen require-authentication="false">
+    <widgets>
+        <label type="h1" text="Hello world!"/>
+    </widgets>
+</screen>

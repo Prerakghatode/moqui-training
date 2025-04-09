@@ -1,0 +1,7 @@
+<entities>
+    <entity entity-name="Test" package-name="tutorial">
+        <field name="id" type="id" is-pk="true"/>
+        <field name="name" type="text-medium"/>
+        <field name="address" type="text-long"/>
+    </entity>
+</entities>

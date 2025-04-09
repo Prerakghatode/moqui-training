@@ -1,0 +1,6 @@
+<entity-facade-xml type="seed">
+    <tutorial.Test id="5"  name="Prerak" address="Indore"/>
+    <tutorial.Test id="2"  name="Jimmy" address="Pune"/>
+    <tutorial.Test id="3"  name="Andrew" address="New York"/>
+    <tutorial.Test id="4"  name="Alex" address="Delhi"/>
+</entity-facade-xml>
