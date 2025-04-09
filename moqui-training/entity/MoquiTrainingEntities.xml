@@ -1,0 +1,9 @@
+<entities>
+    <entity entity-name="MoquiTraining" package-name="moqui.training">
+        <field name="trainingId" type="id" is-pk="true"/>
+        <field name="trainingName" type="text-medium"/>
+        <field name="trainingDate" type="date"/>
+        <field name="trainingPrice" type="number-decimal"/>
+        <field name="trainingDuration" type="number-integer"/>
+    </entity>
+</entities>
